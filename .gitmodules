@@ -1,0 +1,3 @@
+[submodule "svmkeras/keras-facenet"]
+	path = svmkeras/keras-facenet
+	url = git://github.com/nyoki-mtl/keras-facenet.git
